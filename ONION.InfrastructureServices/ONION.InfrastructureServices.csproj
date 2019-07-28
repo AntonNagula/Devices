@@ -118,12 +118,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Configurations\DeviceConfiguration.cs" />
+    <Compile Include="Configurations\UserConfiguration.cs" />
+    <Compile Include="Contexts\MyContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository.cs" />
+    <Compile Include="UserRepository.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Models\Models.csproj">
-      <Project>{f712c86a-2faf-490f-b10a-921679e8cd1c}</Project>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{a95b8420-d5b1-492c-8fa4-6c1827158883}</Project>
       <Name>Models</Name>
     </ProjectReference>
     <ProjectReference Include="..\ONION.Infrustructure\ONION.Infrustructure.csproj">

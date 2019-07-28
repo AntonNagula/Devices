@@ -7,3 +7,12 @@ C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Infrustructure\obj\Debug\O
 C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.csproj.CopyComplete
 C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.dll
 C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.pdb
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\bin\Debug\ONION.Infrustructure.dll
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\bin\Debug\ONION.Infrustructure.pdb
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\bin\Debug\Models.dll
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\bin\Debug\Models.pdb
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.csprojAssemblyReference.cache
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.csproj.CopyComplete
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.dll
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Infrustructure\obj\Debug\ONION.Infrustructure.pdb

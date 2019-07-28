@@ -130,7 +130,7 @@
   <ItemGroup>
     <Compile Include="IModul.cs" />
     <Compile Include="Moduls\RepositoryModul.cs" />
-    <Compile Include="Moduls\UserContext.cs" />
+    <Compile Include="Moduls\ServiceModul.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -15,7 +15,7 @@ namespace DevicesApi
             // it is NOT necessary to register your controllers
             
             Register<RepositoryModul>(container);
-            Register<UserContext>(container);
+            Register<ServiceModul>(container);
             
             // e.g. container.RegisterType<ITestService, TestService>();
 

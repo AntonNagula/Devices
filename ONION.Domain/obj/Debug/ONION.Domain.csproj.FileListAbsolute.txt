@@ -7,3 +7,12 @@ C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Domain\obj\Debug\ONION.Dom
 C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Domain\obj\Debug\ONION.Domain.csproj.CopyComplete
 C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Domain\obj\Debug\ONION.Domain.dll
 C:\Users\Banderos\Desktop\курсы\DevicesApi\ONION.Domain\obj\Debug\ONION.Domain.pdb
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\bin\Debug\ONION.Domain.dll
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\bin\Debug\ONION.Domain.pdb
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\bin\Debug\Models.dll
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\bin\Debug\Models.pdb
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\obj\Debug\ONION.Domain.csprojAssemblyReference.cache
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\obj\Debug\ONION.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\obj\Debug\ONION.Domain.csproj.CopyComplete
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\obj\Debug\ONION.Domain.dll
+C:\Users\Banderos\Desktop\курсы\Devices\Devices\ONION.Domain\obj\Debug\ONION.Domain.pdb

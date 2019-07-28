@@ -22,9 +22,9 @@ namespace ONION.Domain.Services
             return _userRepository.Get();
         }
 
-        public bool CreateUser(User user)
+        public void CreateUser(User user)
         {
-            return _userRepository.Create_User(user);
+            _userRepository.Create_User(user);
         }
 
         public bool DeleteUser(int id)
@@ -44,14 +44,7 @@ namespace ONION.Domain.Services
         {
             
             _userRepository.Create(dev);
-        }
-
-        public bool Delete(Device obj)
-        {
-            
-            bool res= _userRepository.Delete(obj);            
-            return res;
-        }
+        }               
 
         public bool Delete(int Id)
         {            
